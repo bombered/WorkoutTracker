@@ -1,2 +1,5 @@
-*.txt
+egg.txt
 *.data
+.venv/
+__pycache__/
+.vscode/
